@@ -39,11 +39,11 @@
       }
     ],
     "imageResize": true,
-    "uniqCompNum": 118,
+    "uniqCompNum": 119,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "sitemapSwitcher": true,
-    "siteUrl": "https://leschevpromo.github.io",
+    "siteUrl": "https://leschevpromo.github.io/sales/index.html",
     "sitemapSwitcherAuto": "on",
     "robotsSwitcher": false,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
